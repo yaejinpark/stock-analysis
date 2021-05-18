@@ -8,11 +8,11 @@ For the stock analysis project, I was able to demonstrate basic coding knowledge
 There are only twelve different stocks for this dataset, but thousands of rows of data that show their volumes, starting prices and ending prices on different days. Though possible, it is extremely time-consuming and inefficient even using the filter function provided in Excel for each stock (or tickers). Though the numbers themselves don't form a pattern, the dataset itself has a pattern in that each row contains the same type of data: stock name, date, prices, etc., all 8 columns in total. Using this knowledge to my advantage, I was able to obtain the following results as the final outcome. 
 
 ## Results
-![VBA_Challenge_2017](./resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 Return rates of the stocks in 2017
 
 
-![VBA_Challenge_2018](./resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 Return rates of the stocks in 2018
 
 ### Code
